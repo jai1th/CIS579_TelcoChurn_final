@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import predictors
-import llm_server
+import webapp.predictors as predictors
+import webapp.llm_server as llm_server
 import time
 
 def inputter():
