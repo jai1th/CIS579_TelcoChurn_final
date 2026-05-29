@@ -92,7 +92,3 @@ This notebook covers the **XGBoost model** implementation. It includes:
 
 ##  Note
 Ensure that the `preprocessed.csv` file is available before running any of the modeling notebooks, as it serves as the data source for training.
-
----
-##  Contact
-For questions or contributions, please reach out to the project team.
